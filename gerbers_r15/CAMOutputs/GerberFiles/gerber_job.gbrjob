@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-03-18T20:26:47Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "pht_water_level_lte"
+        },
+        "Owner": "Benjamin Shiflet <ben.shiflet@palmharbortech.com>",
+        "Size": {
+            "X": 72,
+            "Y": 49.5
+        }
+    }
+}

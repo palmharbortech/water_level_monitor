@@ -1,0 +1,194 @@
+
+
+   ---- Transcoding 'C:\Users\bshiflet\Documents\eagle\projects\pht_water_level_lte\gerbers_r15\CAMOutputs\GerberFiles\copper_top.gbr' ----   Mon Mar 18 16:28:17 2019
+
+D10   --> D100
+D11   --> D101
+D12   --> D102
+D13   --> D103
+D14   --> D104
+D15   --> D105
+D16   --> D106
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\bshiflet\Documents\eagle\projects\pht_water_level_lte\gerbers_r15\CAMOutputs\GerberFiles\profile.gbr' ----   Mon Mar 18 16:28:17 2019
+
+D10   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\bshiflet\Documents\eagle\projects\pht_water_level_lte\gerbers_r15\CAMOutputs\GerberFiles\silkscreen_bottom.gbr' ----   Mon Mar 18 16:28:17 2019
+
+D10   --> D108
+D11   --> D109
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\bshiflet\Documents\eagle\projects\pht_water_level_lte\gerbers_r15\CAMOutputs\GerberFiles\silkscreen_top.gbr' ----   Mon Mar 18 16:28:17 2019
+
+D10   --> D110
+D11   --> D111
+D12   --> D112
+D13   --> D113
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\bshiflet\Documents\eagle\projects\pht_water_level_lte\gerbers_r15\CAMOutputs\GerberFiles\soldermask_bottom.gbr' ----   Mon Mar 18 16:28:17 2019
+
+D10   --> D114
+D11   --> D115
+D12   --> D116
+D13   --> D117
+D14   --> D118
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\bshiflet\Documents\eagle\projects\pht_water_level_lte\gerbers_r15\CAMOutputs\GerberFiles\soldermask_top.gbr' ----   Mon Mar 18 16:28:17 2019
+
+D10   --> D119
+D11   --> D120
+D12   --> D121
+D13   --> D122
+D14   --> D123
+D15   --> D124
+D16   --> D125
+D17   --> D126
+D18   --> D127
+D19   --> D128
+D20   --> D129
+D21   --> D130
+D22   --> D131
+D23   --> D132
+D24   --> D133
+D25   --> D134
+D26   --> D135
+D27   --> D136
+D28   --> D137
+D29   --> D138
+D30   --> D139
+D31   --> D140
+D32   --> D141
+D33   --> D142
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\bshiflet\Documents\eagle\projects\pht_water_level_lte\gerbers_r15\CAMOutputs\GerberFiles\solderpaste_top.gbr' ----   Mon Mar 18 16:28:17 2019
+
+D10   --> D143
+D11   --> D144
+D12   --> D145
+D13   --> D146
+D14   --> D147
+D15   --> D148
+D16   --> D149
+D17   --> D150
+D18   --> D151
+D19   --> D152
+D20   --> D153
+D21   --> D154
+D22   --> D155
+D23   --> D156
+D24   --> D157
+D25   --> D158
+D26   --> D159
+D27   --> D160
+D28   --> D161
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\bshiflet\Documents\eagle\projects\pht_water_level_lte\gerbers_r15\CAMOutputs\GerberFiles\copper_top.gbr' ----   Wed Apr 28 16:29:17 2021
+
+D10   --> D100
+D11   --> D101
+D12   --> D102
+D13   --> D103
+D14   --> D104
+D15   --> D105
+D16   --> D106
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\bshiflet\Documents\eagle\projects\pht_water_level_lte\gerbers_r15\CAMOutputs\GerberFiles\profile.gbr' ----   Wed Apr 28 16:29:17 2021
+
+D10   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\bshiflet\Documents\eagle\projects\pht_water_level_lte\gerbers_r15\CAMOutputs\GerberFiles\silkscreen_bottom.gbr' ----   Wed Apr 28 16:29:17 2021
+
+D10   --> D108
+D11   --> D109
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\bshiflet\Documents\eagle\projects\pht_water_level_lte\gerbers_r15\CAMOutputs\GerberFiles\silkscreen_top.gbr' ----   Wed Apr 28 16:29:17 2021
+
+D10   --> D110
+D11   --> D111
+D12   --> D112
+D13   --> D113
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\bshiflet\Documents\eagle\projects\pht_water_level_lte\gerbers_r15\CAMOutputs\GerberFiles\soldermask_bottom.gbr' ----   Wed Apr 28 16:29:17 2021
+
+D10   --> D114
+D11   --> D115
+D12   --> D116
+D13   --> D117
+D14   --> D118
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\bshiflet\Documents\eagle\projects\pht_water_level_lte\gerbers_r15\CAMOutputs\GerberFiles\soldermask_top.gbr' ----   Wed Apr 28 16:29:17 2021
+
+D10   --> D119
+D11   --> D120
+D12   --> D121
+D13   --> D122
+D14   --> D123
+D15   --> D124
+D16   --> D125
+D17   --> D126
+D18   --> D127
+D19   --> D128
+D20   --> D129
+D21   --> D130
+D22   --> D131
+D23   --> D132
+D24   --> D133
+D25   --> D134
+D26   --> D135
+D27   --> D136
+D28   --> D137
+D29   --> D138
+D30   --> D139
+D31   --> D140
+D32   --> D141
+D33   --> D142
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\bshiflet\Documents\eagle\projects\pht_water_level_lte\gerbers_r15\CAMOutputs\GerberFiles\solderpaste_top.gbr' ----   Wed Apr 28 16:29:17 2021
+
+D10   --> D143
+D11   --> D144
+D12   --> D145
+D13   --> D146
+D14   --> D147
+D15   --> D148
+D16   --> D149
+D17   --> D150
+D18   --> D151
+D19   --> D152
+D20   --> D153
+D21   --> D154
+D22   --> D155
+D23   --> D156
+D24   --> D157
+D25   --> D158
+D26   --> D159
+D27   --> D160
+D28   --> D161
+-----------------------------------------------------------------
